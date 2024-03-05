@@ -1,18 +1,30 @@
 {
-  "name": "ether-craft-artisan",
-  "version": "0.1.0",
-  "description": "A mystical artisan tool for crafting and managing Ethereum smart contracts.",
+  "name": "doyin-artisan",
+  "version": "1.0.0",
+  "description": "A tool for crafting and managing Ethereum smart contracts.",
   "main": "etherCraftArtisan.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Germain-Jake1982-y/ether-craft-artisan.git"
+    "url": "git+https://github.com/doyinDev1/oss-tea-web33.git"
   },
-  "homepage": "https://github.com/Germain-Jake1982-y/ether-craft-artisan",
-  "keywords": ["ethereum", "smart contract", "crafting", "artisan"],
+  "homepage": "https://github.com/doyinDev1/oss-tea-web33",
+  "keywords": [
+    "ethereum",
+    "smart contract",
+    "crafting",
+    "artisan"
+  ],
   "dependencies": {
     "web3": "^1.3.0",
     "lodash": "^4.17.21",
     "axios": "^0.24.0"
   },
-  "license": "MIT"
+  "author": "doyindev1",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/doyinDev1/oss-tea-web33/issues"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
 }
